@@ -1,0 +1,24 @@
+\documentclass{book}
+\usepackage[contents, nonumber]{cuisine}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{lipsum} 
+\hypersetup{colorlinks=true, linktoc=all, linkcolor=black}
+\RecipeWidths{1.3\textwidth}{3cm}{1cm}{3.5cm}{1cm}{1cm}
+\renewcommand*{\recipestepnumberfont}{\sffamily\bfseries}
+\renewcommand*{\recipetitlefont}{\sffamily\bfseries}
+\renewcommand{\contentsname}{Rezeptbuch}
+\titleformat{\chapter}[display]{\normalfont\bfseries}{}{0pt}{\Huge}
+\pagestyle{plain}
+\usepackage[margin=1.2in]{geometry}
+
+\begin{document} 
+\tableofcontents
+\chapter{Hauptgerichte} \input{"/Users/johannes/Desktop/Rezeptbuch LATEX/Hauptteil/Rezeptbuch PDF Output/Rezeptbuch Main/Rezeptbuch_Main.tex" }
+\chapter{Beilagen} \input{"/Users/johannes/Desktop/Rezeptbuch LATEX/Hauptteil/Rezeptbuch PDF Output/Rezeptbuch Beilagen/Rezeptbuch_Beilagen.tex"}
+\chapter{Desserts} \input{"/Users/johannes/Desktop/Rezeptbuch LATEX/Hauptteil/Rezeptbuch PDF Output/Rezeptbuch Desserts/Rezeptbuch_Desserts.tex"}
+\chapter{Brote} \input{"/Users/johannes/Desktop/Rezeptbuch LATEX/Hauptteil/Rezeptbuch PDF Output/Rezeptbuch Brot/Rezeptbuch_Brot.tex"}
+\chapter{Gewürze} \input{"/Users/johannes/Desktop/Rezeptbuch LATEX/Hauptteil/Rezeptbuch PDF Output/Rezeptbuch Gewürze/Rezeptbuch_Gewürze.tex"}
+\chapter{Tabellen} \input{"/Users/johannes/Desktop/Rezeptbuch LATEX/Hauptteil/Rezeptbuch PDF Output/Rezeptbuch Tabelle/Rezeptbuch_Tabelle.tex"}
+\end{document}

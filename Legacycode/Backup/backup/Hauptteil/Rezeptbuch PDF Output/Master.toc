@@ -1,0 +1,124 @@
+\contentsline {chapter}{\numberline {1}Hauptgerichte}{5}{chapter.1}%
+\contentsline {subsection}{Apfel-Zwiebel-Curry}{5}{r@cipenumber.1}%
+\contentsline {subsection}{Beef Wellington}{5}{r@cipenumber.2}%
+\contentsline {subsection}{Bolgnese}{6}{r@cipenumber.3}%
+\contentsline {subsection}{Brasilianischer Fischeintopf}{6}{r@cipenumber.4}%
+\contentsline {subsection}{Brokkolifrikadellen}{7}{r@cipenumber.5}%
+\contentsline {subsection}{Butter Chicken}{7}{r@cipenumber.6}%
+\contentsline {subsection}{Butternusskürbissuppe}{8}{r@cipenumber.7}%
+\contentsline {subsection}{Chicken Katsu}{8}{r@cipenumber.8}%
+\contentsline {subsection}{Chicken Tikka Masala}{9}{r@cipenumber.9}%
+\contentsline {subsection}{Chickenburger}{9}{r@cipenumber.10}%
+\contentsline {subsection}{Chili con Colorado}{10}{r@cipenumber.11}%
+\contentsline {subsection}{Chili}{10}{r@cipenumber.12}%
+\contentsline {subsection}{Crepes}{11}{r@cipenumber.13}%
+\contentsline {subsection}{Döner}{11}{r@cipenumber.14}%
+\contentsline {subsection}{Eier Benedict}{12}{r@cipenumber.15}%
+\contentsline {subsection}{Enchilada}{12}{r@cipenumber.16}%
+\contentsline {subsection}{Englisches Rindergulasch mit Dumplings}{13}{r@cipenumber.17}%
+\contentsline {subsection}{Erbsensuppe}{13}{r@cipenumber.18}%
+\contentsline {subsection}{Falafel}{14}{r@cipenumber.19}%
+\contentsline {subsection}{Finnische Lachssuppe}{14}{r@cipenumber.20}%
+\contentsline {subsection}{Fischfrikadellen}{14}{r@cipenumber.21}%
+\contentsline {subsection}{Fleischkroketten}{15}{r@cipenumber.22}%
+\contentsline {subsection}{Geschmorter Weißkohl}{15}{r@cipenumber.23}%
+\contentsline {subsection}{Gnocchis in Tomatensauce}{16}{r@cipenumber.24}%
+\contentsline {subsection}{Grünkohl}{16}{r@cipenumber.25}%
+\contentsline {subsection}{Gutsherrentopf}{16}{r@cipenumber.26}%
+\contentsline {subsection}{Gyrossuppe}{17}{r@cipenumber.27}%
+\contentsline {subsection}{Hummus}{17}{r@cipenumber.28}%
+\contentsline {subsection}{Hähnchen a la Crema}{17}{r@cipenumber.29}%
+\contentsline {subsection}{Hähnchen-Kichererbsen Burger}{18}{r@cipenumber.30}%
+\contentsline {subsection}{Hühnerfrikassee}{18}{r@cipenumber.31}%
+\contentsline {subsection}{Kartoffelsuppe}{19}{r@cipenumber.32}%
+\contentsline {subsection}{Kartoffelwedges}{19}{r@cipenumber.33}%
+\contentsline {subsection}{Kasslereintopf}{19}{r@cipenumber.34}%
+\contentsline {subsection}{Koreanisches Hühnchen}{19}{r@cipenumber.35}%
+\contentsline {subsection}{Königsberger Klopse}{20}{r@cipenumber.36}%
+\contentsline {subsection}{Lasagne}{20}{r@cipenumber.37}%
+\contentsline {subsection}{Leberkäse}{21}{r@cipenumber.38}%
+\contentsline {subsection}{Linsensuppe}{21}{r@cipenumber.39}%
+\contentsline {subsection}{Maultaschen mit Zwiebeln}{22}{r@cipenumber.40}%
+\contentsline {subsection}{McRib}{22}{r@cipenumber.41}%
+\contentsline {subsection}{Neapolitanische Pizza}{23}{r@cipenumber.42}%
+\contentsline {subsection}{Nudelauflauf}{23}{r@cipenumber.43}%
+\contentsline {subsection}{Nudeln mit Hackfleisch und Brokkoli}{24}{r@cipenumber.44}%
+\contentsline {subsection}{Ossobuco}{24}{r@cipenumber.45}%
+\contentsline {subsection}{Pfannkuchen}{25}{r@cipenumber.46}%
+\contentsline {subsection}{Polnischer Jägereintopf}{25}{r@cipenumber.47}%
+\contentsline {subsection}{Pulled Pork}{25}{r@cipenumber.48}%
+\contentsline {subsection}{Pute mit Ziegenfrischkäse und Datteln}{26}{r@cipenumber.49}%
+\contentsline {subsection}{Rinderhaxe mit Gerste}{26}{r@cipenumber.50}%
+\contentsline {subsection}{Rotes Curry}{27}{r@cipenumber.51}%
+\contentsline {subsection}{Saltimbocca}{27}{r@cipenumber.52}%
+\contentsline {subsection}{Sauerbraten}{27}{r@cipenumber.53}%
+\contentsline {subsection}{Schottischer Eintopf}{28}{r@cipenumber.54}%
+\contentsline {subsection}{Serbischer Bratreis}{28}{r@cipenumber.55}%
+\contentsline {subsection}{Shepards Pie}{28}{r@cipenumber.56}%
+\contentsline {subsection}{Snirtje-Braten}{29}{r@cipenumber.57}%
+\contentsline {subsection}{Spare Ribs}{29}{r@cipenumber.58}%
+\contentsline {subsection}{Sushi}{30}{r@cipenumber.59}%
+\contentsline {subsection}{Thai Basilikumhuhn}{30}{r@cipenumber.60}%
+\contentsline {subsection}{Tofu Curry}{30}{r@cipenumber.61}%
+\contentsline {subsection}{Tomatensuppe}{31}{r@cipenumber.62}%
+\contentsline {subsection}{Toskanische Gnocchi}{31}{r@cipenumber.63}%
+\contentsline {subsection}{Tuna Melt}{32}{r@cipenumber.64}%
+\contentsline {subsection}{Vulkanschwein}{32}{r@cipenumber.65}%
+\contentsline {subsection}{Zucchini mit Quinoa-Ziegenkäse-Füllung}{32}{r@cipenumber.66}%
+\contentsline {subsection}{Zwiebelkuchen}{33}{r@cipenumber.67}%
+\contentsline {subsection}{Züricher Geschnetzeltes}{33}{r@cipenumber.68}%
+\contentsline {chapter}{\numberline {2}Beilagen}{35}{chapter.2}%
+\contentsline {subsection}{BBQ-Sauce}{35}{r@cipenumber.69}%
+\contentsline {subsection}{Burgersauce}{35}{r@cipenumber.70}%
+\contentsline {subsection}{Chiliöl}{36}{r@cipenumber.71}%
+\contentsline {subsection}{Cole Slaw}{36}{r@cipenumber.72}%
+\contentsline {subsection}{Djuvec-Reis}{36}{r@cipenumber.73}%
+\contentsline {subsection}{Eiersalat}{37}{r@cipenumber.74}%
+\contentsline {subsection}{Entenrillette}{37}{r@cipenumber.75}%
+\contentsline {subsection}{Guacamole}{38}{r@cipenumber.76}%
+\contentsline {subsection}{Hühnersalat}{38}{r@cipenumber.77}%
+\contentsline {subsection}{Joghurtdressing}{38}{r@cipenumber.78}%
+\contentsline {subsection}{Karamellisierte Zwiebeln}{38}{r@cipenumber.79}%
+\contentsline {subsection}{Kartoffelbrei}{39}{r@cipenumber.80}%
+\contentsline {subsection}{Kartoffelwedges}{39}{r@cipenumber.81}%
+\contentsline {subsection}{Naan}{39}{r@cipenumber.82}%
+\contentsline {subsection}{Obazda}{40}{r@cipenumber.83}%
+\contentsline {subsection}{Refried Beans Kidney}{40}{r@cipenumber.84}%
+\contentsline {subsection}{Refried Beans Pinto}{40}{r@cipenumber.85}%
+\contentsline {subsection}{Rotkohl}{41}{r@cipenumber.86}%
+\contentsline {subsection}{Ruccola-Nudel Salat}{41}{r@cipenumber.87}%
+\contentsline {subsection}{Sate-Sauce}{41}{r@cipenumber.88}%
+\contentsline {subsection}{Sauerkraut}{42}{r@cipenumber.89}%
+\contentsline {subsection}{Senf-Honig-Dressing}{42}{r@cipenumber.90}%
+\contentsline {subsection}{Tomatenreis}{42}{r@cipenumber.91}%
+\contentsline {subsection}{Tsatsiki}{42}{r@cipenumber.92}%
+\contentsline {subsection}{koreanische Süß-Sauce Sauce}{43}{r@cipenumber.93}%
+\contentsline {subsection}{Junge Bohnen mit Speck}{43}{r@cipenumber.94}%
+\contentsline {chapter}{\numberline {3}Desserts}{45}{chapter.3}%
+\contentsline {subsection}{Baklava}{45}{r@cipenumber.95}%
+\contentsline {subsection}{Glühwein}{45}{r@cipenumber.96}%
+\contentsline {subsection}{Himbeertraum}{46}{r@cipenumber.97}%
+\contentsline {subsection}{Marmelade}{46}{r@cipenumber.98}%
+\contentsline {subsection}{Milchreis}{46}{r@cipenumber.99}%
+\contentsline {subsection}{Philadelphiatorte}{46}{r@cipenumber.100}%
+\contentsline {subsection}{Rhabarberkuchen}{47}{r@cipenumber.101}%
+\contentsline {subsection}{Tiramisu Mousse au Chocolat}{47}{r@cipenumber.102}%
+\contentsline {subsection}{Zitronencreme}{47}{r@cipenumber.103}%
+\contentsline {subsection}{Zitronenkuchen}{48}{r@cipenumber.104}%
+\contentsline {chapter}{\numberline {4}Brote}{49}{chapter.4}%
+\contentsline {subsection}{Baguette}{49}{r@cipenumber.105}%
+\contentsline {subsection}{Laugenbrötchen}{49}{r@cipenumber.106}%
+\contentsline {subsection}{Naan}{50}{r@cipenumber.107}%
+\contentsline {subsection}{Sandwichbrot}{50}{r@cipenumber.108}%
+\contentsline {subsection}{Sauerteig Weizenbrot}{50}{r@cipenumber.109}%
+\contentsline {subsection}{Sesamkringel}{51}{r@cipenumber.110}%
+\contentsline {subsection}{Weizenbrot}{51}{r@cipenumber.111}%
+\contentsline {chapter}{\numberline {5}Gewürze}{53}{chapter.5}%
+\contentsline {subsection}{Cajun}{53}{r@cipenumber.112}%
+\contentsline {subsection}{Chili}{53}{r@cipenumber.113}%
+\contentsline {subsection}{Geflügelgewürz}{53}{r@cipenumber.114}%
+\contentsline {subsection}{Gyrosgewürz}{54}{r@cipenumber.115}%
+\contentsline {subsection}{Italian Meat}{54}{r@cipenumber.116}%
+\contentsline {subsection}{Magic Dust}{54}{r@cipenumber.117}%
+\contentsline {subsection}{Rib Rub}{55}{r@cipenumber.118}%
+\contentsline {subsection}{Taco Gewürz}{55}{r@cipenumber.119}%

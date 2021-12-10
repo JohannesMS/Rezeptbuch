@@ -1,0 +1,16 @@
+•	50g Speck
+•	1 Zwiebel
+•	200g junge dicke Bohnen aus dem Glas
+•	75 ml Sahne
+•	2 TL Mehl
+•	1 TL Butter
+•	50ml Wasser
+\begin{recipe}{}{}{}
+\ing[50]{g}{Speck}
+\ing[1]{}{Zwiebel}
+\ing[200]{g}{jungedickeBohnenausdemGlas}
+\ing[75]{ml}{Sahne}
+\ing[2]{TL}{Mehl}
+\ing[1]{TL}{Butter}
+\ing[50]{ml}{Wasser}
+\end{recipe}

@@ -1,0 +1,68 @@
+\contentsline {subsection}{Apfel-Zwiebel-Curry}{3}{r@cipenumber.1}%
+\contentsline {subsection}{Beef Wellington}{3}{r@cipenumber.2}%
+\contentsline {subsection}{Bolgnese}{4}{r@cipenumber.3}%
+\contentsline {subsection}{Brasilianischer Fischeintopf}{4}{r@cipenumber.4}%
+\contentsline {subsection}{Brokkolifrikadellen}{4}{r@cipenumber.5}%
+\contentsline {subsection}{Butter Chicken}{5}{r@cipenumber.6}%
+\contentsline {subsection}{Butternusskürbissuppe}{5}{r@cipenumber.7}%
+\contentsline {subsection}{Chicken Katsu}{6}{r@cipenumber.8}%
+\contentsline {subsection}{Chicken Tikka Masala}{6}{r@cipenumber.9}%
+\contentsline {subsection}{Chickenburger}{7}{r@cipenumber.10}%
+\contentsline {subsection}{Chili con Colorado}{8}{r@cipenumber.11}%
+\contentsline {subsection}{Chili}{8}{r@cipenumber.12}%
+\contentsline {subsection}{Crepes}{9}{r@cipenumber.13}%
+\contentsline {subsection}{Döner}{9}{r@cipenumber.14}%
+\contentsline {subsection}{Eier Benedict}{9}{r@cipenumber.15}%
+\contentsline {subsection}{Enchilada}{10}{r@cipenumber.16}%
+\contentsline {subsection}{Englisches Rindergulasch mit Dumplings}{10}{r@cipenumber.17}%
+\contentsline {subsection}{Erbsensuppe}{11}{r@cipenumber.18}%
+\contentsline {subsection}{Falafel}{11}{r@cipenumber.19}%
+\contentsline {subsection}{Finnische Lachssuppe}{12}{r@cipenumber.20}%
+\contentsline {subsection}{Fischfrikadellen}{12}{r@cipenumber.21}%
+\contentsline {subsection}{Fleischkroketten}{12}{r@cipenumber.22}%
+\contentsline {subsection}{Geschmorter Weißkohl}{13}{r@cipenumber.23}%
+\contentsline {subsection}{Gnocchis in Tomatensauce}{13}{r@cipenumber.24}%
+\contentsline {subsection}{Grünkohl}{13}{r@cipenumber.25}%
+\contentsline {subsection}{Gutsherrentopf}{14}{r@cipenumber.26}%
+\contentsline {subsection}{Gyrossuppe}{14}{r@cipenumber.27}%
+\contentsline {subsection}{Hummus}{14}{r@cipenumber.28}%
+\contentsline {subsection}{Hähnchen a la Crema}{15}{r@cipenumber.29}%
+\contentsline {subsection}{Hähnchen-Kichererbsen Burger}{15}{r@cipenumber.30}%
+\contentsline {subsection}{Hühnerfrikassee}{16}{r@cipenumber.31}%
+\contentsline {subsection}{Kartoffelsuppe}{16}{r@cipenumber.32}%
+\contentsline {subsection}{Kartoffelwedges}{16}{r@cipenumber.33}%
+\contentsline {subsection}{Kasslereintopf}{16}{r@cipenumber.34}%
+\contentsline {subsection}{Koreanisches Hühnchen}{17}{r@cipenumber.35}%
+\contentsline {subsection}{Königsberger Klopse}{17}{r@cipenumber.36}%
+\contentsline {subsection}{Lasagne}{18}{r@cipenumber.37}%
+\contentsline {subsection}{Leberkäse}{18}{r@cipenumber.38}%
+\contentsline {subsection}{Linsensuppe}{19}{r@cipenumber.39}%
+\contentsline {subsection}{Maultaschen mit Zwiebeln}{19}{r@cipenumber.40}%
+\contentsline {subsection}{McRib}{20}{r@cipenumber.41}%
+\contentsline {subsection}{Neapolitanische Pizza}{20}{r@cipenumber.42}%
+\contentsline {subsection}{Nudelauflauf}{21}{r@cipenumber.43}%
+\contentsline {subsection}{Nudeln mit Hackfleisch und Brokkoli}{21}{r@cipenumber.44}%
+\contentsline {subsection}{Ossobuco}{21}{r@cipenumber.45}%
+\contentsline {subsection}{Pfannkuchen}{22}{r@cipenumber.46}%
+\contentsline {subsection}{Polnischer Jägereintopf}{22}{r@cipenumber.47}%
+\contentsline {subsection}{Pulled Pork}{23}{r@cipenumber.48}%
+\contentsline {subsection}{Pute mit Ziegenfrischkäse und Datteln}{23}{r@cipenumber.49}%
+\contentsline {subsection}{Rinderhaxe mit Gerste}{23}{r@cipenumber.50}%
+\contentsline {subsection}{Rotes Curry}{24}{r@cipenumber.51}%
+\contentsline {subsection}{Saltimbocca}{24}{r@cipenumber.52}%
+\contentsline {subsection}{Sauerbraten}{25}{r@cipenumber.53}%
+\contentsline {subsection}{Schottischer Eintopf}{25}{r@cipenumber.54}%
+\contentsline {subsection}{Serbischer Bratreis}{25}{r@cipenumber.55}%
+\contentsline {subsection}{Shepards Pie}{26}{r@cipenumber.56}%
+\contentsline {subsection}{Snirtje-Braten}{26}{r@cipenumber.57}%
+\contentsline {subsection}{Spare Ribs}{27}{r@cipenumber.58}%
+\contentsline {subsection}{Sushi}{27}{r@cipenumber.59}%
+\contentsline {subsection}{Thai Basilikumhuhn}{27}{r@cipenumber.60}%
+\contentsline {subsection}{Tofu Curry}{28}{r@cipenumber.61}%
+\contentsline {subsection}{Tomatensuppe}{28}{r@cipenumber.62}%
+\contentsline {subsection}{Toskanische Gnocchi}{29}{r@cipenumber.63}%
+\contentsline {subsection}{Tuna Melt}{29}{r@cipenumber.64}%
+\contentsline {subsection}{Vulkanschwein}{30}{r@cipenumber.65}%
+\contentsline {subsection}{Zucchini mit Quinoa-Ziegenkäse-Füllung}{30}{r@cipenumber.66}%
+\contentsline {subsection}{Zwiebelkuchen}{30}{r@cipenumber.67}%
+\contentsline {subsection}{Züricher Geschnetzeltes}{31}{r@cipenumber.68}%

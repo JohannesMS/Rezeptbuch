@@ -1,0 +1,6 @@
+\contentsline {subsection}{Baguette}{2}{r@cipenumber.1}%
+\contentsline {subsection}{Laugenbrötchen}{2}{r@cipenumber.2}%
+\contentsline {subsection}{Sandwichbrot}{2}{r@cipenumber.3}%
+\contentsline {subsection}{Sauerteig Weizenbrot}{3}{r@cipenumber.4}%
+\contentsline {subsection}{Sesamkringel}{3}{r@cipenumber.5}%
+\contentsline {subsection}{Weizenbrot}{3}{r@cipenumber.6}%

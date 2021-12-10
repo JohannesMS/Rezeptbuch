@@ -1,0 +1,8 @@
+\contentsline {subsection}{Cajun}{2}{r@cipenumber.1}%
+\contentsline {subsection}{Chili}{2}{r@cipenumber.2}%
+\contentsline {subsection}{Geflügelgewürz}{2}{r@cipenumber.3}%
+\contentsline {subsection}{Gyrosgewürz}{2}{r@cipenumber.4}%
+\contentsline {subsection}{Italian Meat}{3}{r@cipenumber.5}%
+\contentsline {subsection}{Magic Dust}{3}{r@cipenumber.6}%
+\contentsline {subsection}{Rib Rub}{3}{r@cipenumber.7}%
+\contentsline {subsection}{Taco Gewürz}{3}{r@cipenumber.8}%
