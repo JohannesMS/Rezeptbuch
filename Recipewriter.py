@@ -232,8 +232,16 @@ while ing_or_ins != "e" or ing_or_ins != "E":
         
         #öffnet die Texdatei zum schreiben
         custom_writer(recipe_book_path, recipe_book)
-        sort_recipe_books()
+        #Frage ob in Tex bearbeitet werden soll
+        tempQuery = input("Soll die .tex Datei bearbeitet werden? J/j oder N/n\n")
+        if(tempQuery == "J" or tempQuery == "j"):
+            subprocess.call(['open', recipe_book_path], shell=False)
+            tempQuery = input("Fertig? J/j\n")
         create_pdf()
+
+        
+        #subprocess.call(['open', "/Users/johannes/Desktop/Rezeptbuch LATEX/Hauptteil/Rezeptbuch PDF Output/Master.pdf"], shell=False)
+        
         break
 
 """
